@@ -12,3 +12,8 @@ yesod-devel/
 cabal.sandbox.config
 .DS_Store
 *.swp
+purescript/bower_components
+purescript/node_modules
+purescript/.psci
+purescript/.psci_modules
+c
