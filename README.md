@@ -1,11 +1,9 @@
 Yesod Websocket Chat Example
 ============================
 
-Just worked through adding the [chat example](https://github.com/yesodweb/yesod/blob/master/yesod-websockets/chat.hs) from yesod-websockets to a 
-scaffolded yesod project.  I'm going to alter that code in my actual project, 
-so thought I'd save it here.
+Just worked through adding the [chat example](https://github.com/yesodweb/yesod/blob/master/yesod-websockets/chat.hs) from yesod-websockets to a scaffolded yesod project.  I'm going to alter that code in my actual project, so thought I'd save it here.
 
-There's also a purescript version, which is a bit crude-but-works.  Assuming you have all the purescript tool installed, then if you'grunt chat' from the purescript directory of this project it should build a 'templates/chat.julius' file.  
+There's also a purescript version, which is a bit crude-but-works.  Assuming you have all the purescript tools installed, then running 'grunt' from the purescript directory of this project should build a 'templates/chat.julius' file.  
 
 The commit history starts with an empty scaffolded project; you can step through the commits to see what changes were needed.
 
